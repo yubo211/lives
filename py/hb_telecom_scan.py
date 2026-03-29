@@ -12,8 +12,8 @@ from tqdm import tqdm
 warnings.filterwarnings("ignore", category=DeprecationWarning)
 
 # --- 配置 ---
-TARGET_PREFIX = "106.115"
-TARGET_PORT = 9901
+TARGET_PREFIX = "101.18"
+TARGET_PORT = 808
 CHECK_PATH = "/iptv/live/1000.json?key=txipt"
 M3U_FILE = "py/hb_telecom.m3u"
 TVBOX_FILE = "py/hb_telecom_tvbox.txt"
