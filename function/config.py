@@ -200,11 +200,47 @@ source_urls = [
     #"http://meowtv.top/zb",  # 喵TV
     #"https://tv.youdu.fan:666/live/",  # 可用，V4酒店源
     "http://rihou.cc:567/gggg.nzk",  # 日后线路
-    "http://rihou.cc:555/gggg.nzk",  # 日后线路
-    "http://kv.netsite.cc/tvlive",
+    #"http://rihou.cc:555/gggg.nzk",  # 日后线路
     "http://ww.weidonglong.com/dsj.txt",  # WMDZ源，V4
     #"http://xhztv.top/zbc.txt",  # 可用 有字节码\ufeff开头，V4
-
+    'https://raw.githubusercontent.com/hjpwyb/tv1/refs/heads/main/tv/111.m3u',
+    'https://raw.githubusercontent.com/hjpwyb/tv1/refs/heads/main/tv/zx443.m3u',
+    'https://raw.githubusercontent.com/hjpwyb/tv1/refs/heads/main/tv/202.m3u',
+    'https://raw.githubusercontent.com/hjpwyb/tv1/refs/heads/main/tv/203.m3u',
+    'https://raw.githubusercontent.com/hjpwyb/tv1/refs/heads/main/tv/209.m3u',
+    'https://raw.githubusercontent.com/hjpwyb/tv1/refs/heads/main/tv/tv.m3u',
+    'https://raw.githubusercontent.com/hjpwyb/tv1/refs/heads/main/tv/sx.m3u',
+    'https://raw.githubusercontent.com/hjpwyb/tv1/refs/heads/main/tv/123.m3u',
+    'https://raw.githubusercontent.com/hjpwyb/tv1/refs/heads/main/tv/22.m3u',
+    'https://raw.githubusercontent.com/hjpwyb/tv1/refs/heads/main/tv/mu1.m3u',
+    'https://raw.githubusercontent.com/hjpwyb/tv1/refs/heads/main/tv/now.m3u',
+    'https://raw.githubusercontent.com/hjpwyb/tv1/refs/heads/main/tv/223.m3u',
+    'https://raw.githubusercontent.com/hjpwyb/tv1/refs/heads/main/tv/85.m3u',
+    'https://raw.githubusercontent.com/hjpwyb/tv1/refs/heads/main/tv/901.m3u',
+    'https://raw.githubusercontent.com/hjpwyb/tv1/refs/heads/main/tv/903.m3u',
+    'https://raw.githubusercontent.com/linyu345/live/refs/heads/main/test/all.m3u',
+    'https://raw.githubusercontent.com/kenye201/python/refs/heads/main/test/hotel_all.m3u',
+    'https://upld.zone.id/uploads/q9iq9e5iq/lvse.txt',
+    'https://m.im5k.fun/m.m3u',
+    'https://live.zhi35.com/iptv.m3u',
+    'https://raw.githubusercontent.com/judy-gotv/iptv/main/4gtv.m3u',
+    'https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt',
+    'https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u',
+    'https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u',
+    'https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u',
+    'https://raw.githubusercontent.com/qunhui201/TVlogo/refs/heads/main/output_with_logo.m3u',
+    'https://raw.githubusercontent.com/kimwang1978/collect-tv-txt',/main/others_output.txt',
+    'https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt',
+    'https://raw.githubusercontent.com/ioptu/IPTV.txt',2m3u',.player/refs/heads/main/migu_merged.m3u',
+    'https://raw.githubusercontent.com/ioptu/IPTV.txt',2m3u',.player/refs/heads/main/yp.qqqtv.top.m3u',
+    'https://raw.githubusercontent.com/ioptu/IPTV.txt',2m3u',.player/refs/heads/main/php.jdshipin.com.m3u',
+    'https://live.zbds.top/tv/iptv4.txt',
+    'https://raw.githubusercontent.com/zhzebe/iptv/refs/heads/main/ipv4.txt',
+    'https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt',
+    'https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u',/ipv6.m3u', 
+    'https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo.tx
+    'https://raw.githubusercontent.com/RaycornM/TVbox-IPTV/refs/heads/main/Tivi.m3u',
+    'https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u',
     'https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u', # FMM
     'https://raw.githubusercontent.com/Kimentanm/aptv/refs/heads/master/m3u/iptv.m3u',
     "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",  # guovin 每日更新
